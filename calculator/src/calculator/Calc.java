@@ -14,10 +14,10 @@ public class Calc
 	    System.out.println("enter your choice: 1,2,3, or 4");
 	    operator =input.nextInt();
 	    
-	    System.out.println("Enter first number");
+	    System.out.println("Enter first number  ::  ");
 	    num1=input.nextDouble();
 	    
-	    System.out.println("Enter second number");
+	    System.out.println("Enter second number :: ");
 	    num2=input.nextDouble();
 	    
 	    switch(operator)
